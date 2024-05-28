@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yash9970
-- 👀 I’m interested in hacking and programming
+- 👀 I’m interested programming
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on that
 - 📫 How to reach me ...
